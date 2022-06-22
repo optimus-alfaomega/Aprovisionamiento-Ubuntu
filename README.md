@@ -1,7 +1,7 @@
-# Centos7-Aprovement
+# Ubuntu-Aprovement
 # Proposito: 
 
-    Brindar codigo que facilite la configuración de infraestructura, en este caso para Centos 7
+    Brindar codigo que facilite la configuración de infraestructura, en este caso para ubuntu
 
 Contiene los siguientes directorios:
 
