@@ -1,6 +1,7 @@
 # Centos7-Aprovement
-Proposito: Brindar codigo que facilite la configuración de infraestructura, 
-en este caso para Centos 7
+# Proposito: 
+
+    Brindar codigo que facilite la configuración de infraestructura, en este caso para Centos 7
 
 Contiene los siguientes directorios:
 
